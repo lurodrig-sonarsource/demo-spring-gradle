@@ -13,7 +13,7 @@ public class DemoApplication {
 		int max = 9;
 		Random randomGenerator = new Random();
 		int random = randomGenerator.nextInt(max - min) + min;
-		if (random => 5) {
+		if (random <= 5) {
 		   System.out.println("Hello, low!");
 		} else {
 			System.out.println("Hello, up!");
