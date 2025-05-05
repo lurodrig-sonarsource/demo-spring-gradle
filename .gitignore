@@ -39,3 +39,6 @@ out/
 ### vi code ###
 *.swp
 *.swo
+
+## Sonar ##
+ .scannerwork/
